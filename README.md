@@ -11,5 +11,7 @@ More types of sorting will be added later on!
 
 ## What you can use this script for?
 -Number sorting
+
 -Learn how does a number sort happen by certain method
+
 -etc.
