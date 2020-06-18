@@ -10,7 +10,6 @@ This is a number sorting script made with python programming language.
 -Selection sort
 
 ---------------------------------------------
-More number sorting methods will be added later on!
 
 ## What you can use this script for?
 -Number sorting
