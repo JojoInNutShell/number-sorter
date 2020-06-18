@@ -2,9 +2,10 @@
 
 This is a number sorting script made with python programming language.
 
-Warning : This number sorting script is still in its very early version so not much feature and content in this script but more feature will be coming soon!
 ## What type of sort available?
 -Bubble sort
+-Insertion sort
+-Selection sort
 
 ---------------------------------------------
 More types of sorting will be added later on!
@@ -15,3 +16,6 @@ More types of sorting will be added later on!
 -Learn how does a number sort happen by certain method
 
 -etc.
+
+--------------------------------------------
+Version : 1.1
