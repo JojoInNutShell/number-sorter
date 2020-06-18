@@ -4,11 +4,13 @@ This is a number sorting script made with python programming language.
 
 ## What type of sort available?
 -Bubble sort
+
 -Insertion sort
+
 -Selection sort
 
 ---------------------------------------------
-More types of sorting will be added later on!
+More number sorting methods will be added later on!
 
 ## What you can use this script for?
 -Number sorting
